@@ -1,0 +1,25 @@
+.idea/
+.project
+.classpath
+.settings
+*.eml
+*.iml
+*.iws
+/bin
+
+# Npm
+node_modules
+
+# Webpack
+*.bundle.js
+*.map
+
+# Package Files
+*.jar
+*.ear
+*.log
+
+# Gradle
+.gradle
+/out
+/build

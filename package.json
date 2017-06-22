@@ -1,0 +1,15 @@
+{
+  "name": "avaliacao-sajadv",
+  "version": "1.0.0",
+  "description": "Softplan - Avaliação SAJ ADV",
+  "scripts": {
+    "build": "webpack --config src/main/webapp/webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "3.0.0"
+  },
+  "dependencies": {
+    "angular": "1.6.4",
+    "angular-route": "1.6.4"
+  }
+}
