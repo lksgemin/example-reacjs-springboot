@@ -2,7 +2,7 @@
 
 Processo de instalação do ambiente.
 
-*Levando em consideração que você tenha instalado o GIT, Node, Npm e Gradle.
+* Levando em consideração que você tenha instalado o GIT, Node, Npm e Gradle.
 
 ## Clone o projeto
 
