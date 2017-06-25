@@ -7,23 +7,24 @@ Processo de instalação do ambiente.
 ## Clone o projeto
 
 ```sh
-$ git clone https://github.com/danielqa/avaliacao-sajadv.git
-```
-
-## Instale as libs da view e gere o bundle
-
-```sh
-$ cd avaliacao-sajadv
-$ npm install
-$ npm run build
+$ git clone https://github.com/lksgemin/avaliacao-sajadv.git
 ```
 
 ## Suba a aplicação (Spring Boot) via Gradle
 
 ```sh
+$ cd avaliacao-sajadv/api
 $ gradle bootRun
+```
+
+## Instale as libs da view e inicie a aplicação
+
+```sh
+$ cd avaliacao-sajadv/webapp
+$ npm install
+$ npm start
 ```
 
 ## Link de acesso a aplicação
 
-[http://localhost:8080/avaliacao](http://localhost:8080/avaliacao)
+[http://localhost:3000/](http://localhost:3000/)

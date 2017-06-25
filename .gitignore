@@ -9,6 +9,7 @@
 
 # Npm
 node_modules
+webapp/node_modules
 
 # Webpack
 *.bundle.js
@@ -20,6 +21,6 @@ node_modules
 *.log
 
 # Gradle
-.gradle
-/out
-/build
+api/.gradle
+api/out
+api/build

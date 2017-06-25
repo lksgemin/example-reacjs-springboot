@@ -1,1 +1,0 @@
-angular.module('app', ['ngRoute', 'app.home']);
