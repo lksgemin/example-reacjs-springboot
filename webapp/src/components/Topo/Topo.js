@@ -1,7 +1,7 @@
-import { Component } from 'react';
+import React from 'react';
 import template from "./Topo.jsx";
 
-class Topo extends Component {
+class Topo extends React.Component {
   render() {
     return template.call(this);
   }

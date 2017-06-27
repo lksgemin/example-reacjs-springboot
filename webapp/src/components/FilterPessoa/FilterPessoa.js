@@ -1,4 +1,4 @@
-import React    from "react";
+import React from 'react';
 import template from "./FilterPessoa.jsx";
 
 class FilterPessoa extends React.Component {
