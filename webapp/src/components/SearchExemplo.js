@@ -8,7 +8,7 @@ class SearchExemplo extends Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
-  handleClick = function(e){
+  handleClick(e){
     e.preventDefault();
     this.exemploService.getExemplo().then(function(response){
       console.log(response);
