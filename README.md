@@ -28,3 +28,12 @@ $ npm start
 ## Link de acesso a aplicação
 
 [http://localhost:3000/](http://localhost:3000/)
+
+
+## API
+
+##Pessoa
+* GET - /pessoas - buscaPessoas
+* GET - /pessoas/{id} - buscaPessoaPorId
+* PUT - /pessoas - alterarPessoa
+* DELETE - /pessoas/{id} - desativarPessoa 
