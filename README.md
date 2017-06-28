@@ -32,8 +32,10 @@ $ npm start
 
 ## API
 
-##Pessoa
+## Pessoa
+```sh
 * GET - /pessoas - buscaPessoas
 * GET - /pessoas/{id} - buscaPessoaPorId
 * PUT - /pessoas - alterarPessoa
 * DELETE - /pessoas/{id} - desativarPessoa 
+```
