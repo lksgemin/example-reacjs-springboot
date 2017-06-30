@@ -22,6 +22,7 @@ webapp/node_modules
 *.log
 
 # Gradle
+.gradle
 api/.gradle
 api/out
 api/build
