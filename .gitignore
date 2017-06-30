@@ -6,6 +6,7 @@
 *.iml
 *.iws
 /bin
+*/bin
 
 # Npm
 node_modules
