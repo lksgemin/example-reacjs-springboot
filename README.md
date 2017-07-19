@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exemplo ReactJS + Spring Boot Java
 
 Processo de instalação do ambiente.
