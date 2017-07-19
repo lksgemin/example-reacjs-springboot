@@ -1,4 +1,5 @@
-# Avaliação SAJ ADV
+<<<<<<< HEAD
+# Exemplo ReactJS + Spring Boot Java
 
 Processo de instalação do ambiente.
 
@@ -7,20 +8,20 @@ Processo de instalação do ambiente.
 ## Clone o projeto
 
 ```sh
-$ git clone https://github.com/lksgemin/avaliacao-sajadv.git
+$ git clone https://github.com/lksgemin/exemplo-ReactJS.git
 ```
 
 ## Suba a aplicação (Spring Boot) via Gradle
 
 ```sh
-$ cd avaliacao-sajadv/api
+$ cd exemplo-reactjs/api
 $ gradle bootRun
 ```
 
 ## Instale as libs da view e inicie a aplicação
 
 ```sh
-$ cd avaliacao-sajadv/webapp
+$ cd exemplo-reactjs/webapp
 $ npm install
 $ npm start
 ```
@@ -39,4 +40,3 @@ $ npm start
 * PUT - /pessoas - alterarPessoa
 * DELETE - /pessoas/{id} - desativarPessoa 
 ```
-
